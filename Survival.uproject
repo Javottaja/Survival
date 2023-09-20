@@ -8,6 +8,10 @@
 			"Name": "CustomInputModeGameOnly",
 			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/f138ff0ffa434737bb687bbdcb79ad98"
+		},
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true
 		}
 	]
 }
