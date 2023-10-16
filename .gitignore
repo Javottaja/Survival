@@ -73,6 +73,12 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 
+
+# Manual ignores, to save space
 Content/Packages/
 Content/MSPresets/
 Content/Megascans/
+Materials/
+Meshes/
+Textures/
+Animations/
